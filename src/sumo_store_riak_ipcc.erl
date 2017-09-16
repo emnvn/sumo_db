@@ -1,4 +1,4 @@
--module(sumo_store_riak_restor).
+-module(sumo_store_riak_ipcc).
 
 -behaviour(sumo_store).
 
